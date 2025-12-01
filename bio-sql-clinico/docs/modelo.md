@@ -46,4 +46,4 @@ Se basa en tres entidades principales: **Paciente**, **Medición de presión art
 ## Notas
 
 - Este modelo conceptual se documenta antes de escribir SQL para evitar inconsistencias.  
-- El diagrama puede exportarse como PNG (`docs/modelo.png`) y referenciarse en este archivo para mayor claridad.  
+- ![El diagrama puede exportarse como PNG](modelado3tablasdbdiagram_dark.png) y referenciarse en este archivo para mayor claridad.  

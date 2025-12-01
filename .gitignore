@@ -1,0 +1,12 @@
+# Credenciales y variables de entorno
+bio-sql-clinico/.env
+
+# Entorno virtual dentro del proyecto
+bio-sql-clinico/.venv/
+
+# Cachés de Python
+bio-sql-clinico/**/__pycache__/
+
+# Archivos temporales comunes
+*.log
+.DS_Store
